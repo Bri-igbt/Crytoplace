@@ -50,7 +50,7 @@ const Coin = () => {
                 </div>
 
                 <div className="coin-chart">
-                     <Linechart historicalData={historicalData}/>
+                    <Linechart historicalData={historicalData}/>
                 </div>
 
                 <div className="coin-info">
